@@ -1,11 +1,11 @@
 {
   "appId": "global.turnpike.pfu",
-  "versionName": "0.9.4.17",
-  "versionCode": 30,
-  "commit": "70eddcf",
+  "versionName": "0.9.4.18",
+  "versionCode": 31,
+  "commit": "f974b90",
   "approved": true,
-  "apkUrl": "https://raw.githubusercontent.com/gflinch/pfu-updates/main/pfu-0.9.4.17.apk",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "publishedAt": "2026-10-06T08:10:00Z",
-  "notes": "Bootstrap release for PFU on-device software updates. No download is needed when 0.9.4.17 is already installed."
+  "apkUrl": "https://raw.githubusercontent.com/gflinch/pfu-updates/main/pfu-0.9.4.18.apk",
+  "sha256": "1c7aa11326a9ff25fb409157b839342d8ba7e4e7ba1ba1c74db9cf2e0832e823",
+  "publishedAt": "2026-10-06T09:48:52Z",
+  "notes": "First PFU OTA update: quieter GNSS bars with filled used-in-fix and outline-only visible satellites, 3 px LOG satellite-label spacing, and GENERAL Standard/Metric unit propagation across LOG and WX."
 }
